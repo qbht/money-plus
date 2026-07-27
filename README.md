@@ -1,4 +1,4 @@
-# android-ui-experiments
+# money-plus
 Android UI and app development experiments.
 
 <img width="619" height="1280" alt="image" src="https://github.com/user-attachments/assets/ab608df3-8501-4724-a99b-a3b7faca6a66" />
