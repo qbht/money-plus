@@ -1,5 +1,5 @@
-# money-plus
-Android UI and app development experiments.
+# money+
+ent experiments.
 
 <img width="619" height="1280" alt="image" src="https://github.com/user-attachments/assets/ab608df3-8501-4724-a99b-a3b7faca6a66" />
 <img width="720" height="1280" alt="image" src="https://github.com/user-attachments/assets/3dfb5303-fffc-4fab-9b99-d3ffd6c29538" />
